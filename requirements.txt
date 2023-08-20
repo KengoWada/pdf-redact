@@ -1,1 +1,2 @@
+customtkinter==5.2.0
 PyMuPDF==1.22.5
